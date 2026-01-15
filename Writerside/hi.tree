@@ -25,6 +25,7 @@
         </toc-element>
         <toc-element topic="Feature-Documentation.md">
             <toc-element topic="DDGI-and-Raytracing.md" />
+            <toc-element topic="Proposed-Plugins.md" />
         </toc-element>
     </toc-element>
 
